@@ -17,7 +17,14 @@ A research questionnaire was distributed to gather opinions from the dance commu
 At the end of this project, a hip-hop dance training system that is assisted by motion capture data was successfully created that is easy to use and can be used by everyone regardless of their levels of dance expertise.
 
 
-##### FYP Demo
-![video](https://user-images.githubusercontent.com/35769957/139257232-3d7ad14a-7323-49d0-992b-52276b2b5ff7.png)
+#
+
+### FYP Demo 1
+https://user-images.githubusercontent.com/35769957/139261862-dec9104c-5685-4103-8a42-e12de9d720a7.mp4
+
+
+
+### FYP Demo 2
+https://user-images.githubusercontent.com/35769957/139262707-9f90937c-e466-4a5d-b426-981c566d2f24.mp4
 
 
