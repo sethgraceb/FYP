@@ -3,7 +3,8 @@
 #### Supervisor: Dr Carol O’Sullivan
 #### Trinity College Dublin
 
-![image](https://user-images.githubusercontent.com/35769957/139257124-19a0b169-962c-4799-ad43-83295b85d629.png)
+![image](https://user-images.githubusercontent.com/35769957/139257124-19a0b169-962c-4799-ad43-83295b85d629.png) 
+
 
 
 This project presents an approach to a dance training system assisted by motion capture technology that specifically focuses on the dance style of hip-hop. The purpose of this project is to accurately teach dancers and non-dancers the proper techniques and movements of hip hop as some styles within hip-hop require an accurate execution of the dance techniques. 
@@ -25,6 +26,22 @@ At the end of this project, a hip-hop dance training system that is assisted by 
 - Used the Magic Mirror free asset prefabs from the Unity Asset Store to display mirrors and apply reflection
 - Used the joystick pack from the Unity Asset Store to control the camera angles
 
+### Implementation Issues
+- Had trouble at first implementing the controls on the project using the W A S D keys using the PC as a platform
+- To solve this problem, I thought of making the project a multi-platform system that will give users the option to use the training system on their mobile devices or on their computers
+- Using the users’ mobile devices, they will be able to move the camera around wherever they like using the two joysticks
+- The joystick placed on the bottom left of the screen will allow users to move forward, backward and left and right
+- The joystick on the bottom right will allow users to look up and down and left and right
+
+### Evaluation 
+- If I had more time to work on this project and given the circumstances, I would’ve liked to use the motion capture suits to actually capture the choreography I would like to reflect onto my character
+- Had I actually used these suits, the choreography reflected would be more accurate and technical
+- What makes my training system unique is that the user can control camera angles and be able to zoom in and out to see the choreography better which online video tutorials lack
+
+### Future Work
+- To improve this project, I would take people’s suggestions from the questionnaire into account such as using VR to further make the system more interactive
+- I would also alter the system in a way that will enable the users to press on a certain key that would switch the choreography to the different dance styles the user wishes to view and learn
+- I would also improve the training system by incorporating buttons on the screen that would allow users to pause, fast forward and slow down the dance movements and choreography
 
 
 #
