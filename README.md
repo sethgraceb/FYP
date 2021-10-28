@@ -17,6 +17,16 @@ A research questionnaire was distributed to gather opinions from the dance commu
 At the end of this project, a hip-hop dance training system that is assisted by motion capture data was successfully created that is easy to use and can be used by everyone regardless of their levels of dance expertise.
 
 
+### Design
+- The environment scene is supposed to resemble the dance studio I rehearse at in Liffey Trust Studios
+- Imported First-Person Camera prefab from Unity Asset Store to enable users to control camera angles using the keyboard on a computer platform
+- Used materials and textures online from the Unity Asset Store to apply wooden floors to the scene as well as borders on the walls of the scene
+- Mirrors are meant to reflect the movement of the character models
+- Used the Magic Mirror free asset prefabs from the Unity Asset Store to display mirrors and apply reflection
+- Used the joystick pack from the Unity Asset Store to control the camera angles
+
+
+
 #
 
 ### FYP Demo 1
