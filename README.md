@@ -4,6 +4,8 @@
 #### Trinity College Dublin
 
 ![image](https://user-images.githubusercontent.com/35769957/139257124-19a0b169-962c-4799-ad43-83295b85d629.png)
+
+
 This project presents an approach to a dance training system assisted by motion capture technology that specifically focuses on the dance style of hip-hop. The purpose of this project is to accurately teach dancers and non-dancers the proper techniques and movements of hip hop as some styles within hip-hop require an accurate execution of the dance techniques. 
 
 These dance movements were obtained by motion capture and were applied to digital characters which would perform the choreography that was captured.
@@ -16,6 +18,6 @@ At the end of this project, a hip-hop dance training system that is assisted by 
 
 
 ##### FYP Demo
-![image](https://user-images.githubusercontent.com/35769957/139257232-3d7ad14a-7323-49d0-992b-52276b2b5ff7.png)
+![video](https://user-images.githubusercontent.com/35769957/139257232-3d7ad14a-7323-49d0-992b-52276b2b5ff7.png)
 
 
