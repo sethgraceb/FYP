@@ -1,7 +1,7 @@
-# FYP- Hip Hop Dance Training System Assisted by Motion Capture
-# Author: Seth Grace Banaga
-# Supervisor: Dr Carol O’Sullivan
-# Trinity College Dublin
+# FYP - Hip Hop Dance Training System Assisted by Motion Capture
+#### Author: Seth Grace Banaga
+#### Supervisor: Dr Carol O’Sullivan
+#### Trinity College Dublin
 
 This project presents an approach to a dance training system assisted by motion capture technology that specifically focuses on the dance style of hip-hop. The purpose of this project is to accurately teach dancers and non-dancers the proper techniques and movements of hip hop as some styles within hip-hop require an accurate execution of the dance techniques. 
 These dance movements were obtained by motion capture and were applied to digital characters which would perform the choreography that was captured.
