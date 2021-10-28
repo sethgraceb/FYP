@@ -1,4 +1,4 @@
-# FYP - Hip Hop Dance Training System Assisted by Motion Capture
+# Hip Hop Dance Training System Assisted by Motion Capture
 #### Author: Seth Grace Banaga
 #### Supervisor: Dr Carol O’Sullivan
 #### Trinity College Dublin
