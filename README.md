@@ -43,6 +43,16 @@ At the end of this project, a hip-hop dance training system that is assisted by 
 - I would also alter the system in a way that will enable the users to press on a certain key that would switch the choreography to the different dance styles the user wishes to view and learn
 - I would also improve the training system by incorporating buttons on the screen that would allow users to pause, fast forward and slow down the dance movements and choreography
 
+### Conclusion and Reflection
+- Learned how to use Unity  
+- Learned how to build a project in Unity and build this project on different platforms
+- Learned how to use Unity Remote
+- Learned how to create a research questionnaire, gather opinions, analyse the results and apply this into my project
+
+- Simplicity is key especially with the timeframe given
+- The training system would be more effective if more time was given 
+- Overall, the training system was beneficial and achieved the purpose it was for 
+
 
 #
 
